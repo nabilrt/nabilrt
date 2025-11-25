@@ -69,24 +69,12 @@ Multilingual news portal for the Arab community in Canada.
 - Worked as a frontend JavaScript developer
 - Developed responsive user interfaces
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilrt&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilrt&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabilrt&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 📫 How to Reach Me
 
 - 📧 Email: nabilrt51@gmail.com
 - 💼 LinkedIn: [Abidur Rahman Nabil](https://www.linkedin.com/in/abidur-rahman-nabil/)
 - 📱 Phone: +880 1786523832
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: [portfolio-one-tawny-49.vercel.app](https://portfolio-one-tawny-49.vercel.app/)
 
 ---
 
