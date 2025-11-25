@@ -1,29 +1,99 @@
-![MasterHead](https://media.licdn.com/dms/image/C5622AQGpDwY5CrSTqQ/feedshare-shrink_2048_1536/0/1645788618182?e=1704931200&v=beta&t=sUMa-UtZv430_kVl2FggXNItSAkKH4uYfEAmcs6Yx-Y)
-<h1 align="center">Hi 👋, I'm Abidur Rahman Nabil</h1>
-<h3 align="center">A passionate Semi-full stack JS developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"></img>
+# Hi there, I'm Abidur Rahman Nabil 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabilrt&label=Profile%20views&color=0e75b6&style=flat" alt="nabilrt" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/nabil_n11" target="blank"><img src="https://img.shields.io/twitter/follow/nabil_n11?logo=twitter&style=for-the-badge" alt="nabil_n11" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abidur-rahman-nabil/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabilrt51@gmail.com)
 
-- 💬 Ask me about **React, Express, JS**
+</div>
 
-- 📫 Reach me at **nabilrt51@gmail.com**
+## 🚀 About Me
 
-- ⚡ **I think everyone should enjoy life instead of just coding all day.**
+Dynamic **Full Stack Developer** with **3+ years** of experience building scalable web applications across diverse platforms. Currently working at **KT Informatik** as a Junior Software Engineer, specializing in modern JavaScript frameworks and full-stack development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nabil_n11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabil_n11" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nabil.n11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nabil.n11" height="30" width="40" /></a>
-<a href="https://instagram.com/nabil.n11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabil.n11" height="30" width="40" /></a>
-</p>
+- 🔭 Currently working on e-commerce solutions and AI-driven applications
+- 🌱 Building robust applications with React, Next.js, Node.js, and Laravel
+- 📍 Based in Dhaka, Bangladesh
+- 💼 Available for freelance opportunities and collaborations
+- 🎓 B.Sc in Computer Science and Engineering (CGPA: 3.96/4.00)
 
+## 💻 Tech Stack
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabilrt&show_icons=true&locale=en&layout=compact" alt="nabilrt" /></p>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilrt&show_icons=true&locale=en" alt="nabilrt" /></p>
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilrt&" alt="nabilrt" /></p>
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Tools & Others
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🏆 Major Projects
+
+### [Strenna - E-commerce Platform](https://strenna.ktinformatik.com/)
+Developed several frontend features and backend API using Express.js and Next.js for a modern e-commerce solution.
+
+### [Genadify - AI Advertisement Generator](https://genadify.com/)
+AI-driven advertisement generator with brand integration built using Next.js and Express.js.
+
+### [Webchecky - Website Monitoring Tool](https://webchecky.clickspikes.com/)
+A modern web application for monitoring website uptime, SSL expiry, domain expiration, and performance.
+
+### [Arab Canada News](https://arabcanadanews.ca)
+Multilingual news portal for the Arab community in Canada.
+
+## 💼 Work Experience
+
+**Junior Software Engineer** @ KT Informatik *(Jan 2023 - Present)*
+- Working as a full stack JavaScript developer
+- Building scalable web applications using modern frameworks
+
+**Junior Software Engineer Intern** @ Click Spikes *(Sep 2022 - Dec 2022)*
+- Worked as a frontend JavaScript developer
+- Developed responsive user interfaces
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilrt&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilrt&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabilrt&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 📫 How to Reach Me
+
+- 📧 Email: nabilrt51@gmail.com
+- 💼 LinkedIn: [Abidur Rahman Nabil](https://www.linkedin.com/in/abidur-rahman-nabil/)
+- 📱 Phone: +880 1786523832
+- 🌐 Portfolio: Coming Soon
+
+---
+
+<div align="center">
+
+### 💡 "Building the future, one commit at a time"
+
+![Profile Views](https://komarev.com/ghpvc/?username=nabilrt&color=0f766e&style=flat-square)
+
+</div>
