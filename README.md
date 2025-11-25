@@ -1,4 +1,4 @@
-# Hi there, I'm Abidur Rahman Nabil 👋
+# Hi there, I'm Abidur Rahman Nabil
 
 <div align="center">
 
@@ -7,17 +7,17 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 Dynamic **Full Stack Developer** with **3+ years** of experience building scalable web applications across diverse platforms. Currently working at **KT Informatik** as a Junior Software Engineer, specializing in modern JavaScript frameworks and full-stack development.
 
-- 🔭 Currently working on e-commerce solutions and AI-driven applications
-- 🌱 Building robust applications with React, Next.js, Node.js, and Laravel
-- 📍 Based in Dhaka, Bangladesh
-- 💼 Available for freelance opportunities and collaborations
-- 🎓 B.Sc in Computer Science and Engineering (CGPA: 3.96/4.00)
+- Currently working on e-commerce solutions and AI-driven applications
+- Building robust applications with React, Next.js, Node.js, and Laravel
+- Based in Dhaka, Bangladesh
+- Available for freelance opportunities and collaborations
+- B.Sc in Computer Science and Engineering (CGPA: 3.96/4.00)
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,7 +45,7 @@ Dynamic **Full Stack Developer** with **3+ years** of experience building scalab
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🏆 Major Projects
+## Major Projects
 
 ### [Strenna - E-commerce Platform](https://strenna.ktinformatik.com/)
 Developed several frontend features and backend API using Express.js and Next.js for a modern e-commerce solution.
@@ -59,7 +59,7 @@ A modern web application for monitoring website uptime, SSL expiry, domain expir
 ### [Arab Canada News](https://arabcanadanews.ca)
 Multilingual news portal for the Arab community in Canada.
 
-## 💼 Work Experience
+## Work Experience
 
 **Junior Software Engineer** @ KT Informatik *(Jan 2023 - Present)*
 - Working as a full stack JavaScript developer
@@ -69,18 +69,18 @@ Multilingual news portal for the Arab community in Canada.
 - Worked as a frontend JavaScript developer
 - Developed responsive user interfaces
 
-## 📫 How to Reach Me
+## How to Reach Me
 
-- 📧 Email: nabilrt51@gmail.com
-- 💼 LinkedIn: [Abidur Rahman Nabil](https://www.linkedin.com/in/abidur-rahman-nabil/)
-- 📱 Phone: +880 1786523832
-- 🌐 Portfolio: [portfolio-one-tawny-49.vercel.app](https://portfolio-one-tawny-49.vercel.app/)
+- Email: nabilrt51@gmail.com
+- LinkedIn: [Abidur Rahman Nabil](https://www.linkedin.com/in/abidur-rahman-nabil/)
+- Phone: +880 1786523832
+- Portfolio: [portfolio-one-tawny-49.vercel.app](https://portfolio-one-tawny-49.vercel.app/)
 
 ---
 
 <div align="center">
 
-### 💡 "Building the future, one commit at a time"
+**"Building the future, one commit at a time"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nabilrt&color=0f766e&style=flat-square)
 
