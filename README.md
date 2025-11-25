@@ -45,30 +45,6 @@ Dynamic **Full Stack Developer** with **3+ years** of experience building scalab
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Major Projects
-
-### [Strenna - E-commerce Platform](https://strenna.ktinformatik.com/)
-Developed several frontend features and backend API using Express.js and Next.js for a modern e-commerce solution.
-
-### [Genadify - AI Advertisement Generator](https://genadify.com/)
-AI-driven advertisement generator with brand integration built using Next.js and Express.js.
-
-### [Webchecky - Website Monitoring Tool](https://webchecky.clickspikes.com/)
-A modern web application for monitoring website uptime, SSL expiry, domain expiration, and performance.
-
-### [Arab Canada News](https://arabcanadanews.ca)
-Multilingual news portal for the Arab community in Canada.
-
-## Work Experience
-
-**Junior Software Engineer** @ KT Informatik *(Jan 2023 - Present)*
-- Working as a full stack JavaScript developer
-- Building scalable web applications using modern frameworks
-
-**Junior Software Engineer Intern** @ Click Spikes *(Sep 2022 - Dec 2022)*
-- Worked as a frontend JavaScript developer
-- Developed responsive user interfaces
-
 ## How to Reach Me
 
 - Email: nabilrt51@gmail.com
